@@ -1,0 +1,10 @@
+/com/
+/log4j2.xml
+/message_error.properties
+/message_generic.properties
+/message_validate.properties
+/spring-context.xml
+/spring-mvc.xml
+/system.properties
+/tiles_public.xml
+/velocity/
