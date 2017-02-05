@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class TopController {
 	@RequestMapping(value = { "index.htm" })
 	public String error() {
+//		syso
 		return "index";
 	}
 
